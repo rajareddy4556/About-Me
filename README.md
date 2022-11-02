@@ -1,6 +1,6 @@
 - 👋 Hi,This is Chinthala Rajasekhara Reddy
 - 👀 I’m interested in Software Devlopment
-- 🌱 I’m currently Persuing B tech 4 th year in the stream of electronics and communication engineering(ECE)
+- 🌱 I Compleated B tech 4 th year in the stream of electronics and communication engineering(ECE)
 - 📫 My adress:1-159 umamaheswara puram, Mundlamuru Mandal Prakasam District
 - My Education:
   1.SSC:80% ZP High School, Umamaheswara Puram
