@@ -8,6 +8,6 @@
   3.Graduation Percentage:66% Usha Rama College Of Engineering and Technology,Telaprolu.
 -Skills - Java,Python,C,C++,MYSQL,HTML,CSS,JavaScript and Android.
 <!---
-rajareddy4556/About-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rajareddy4556/About-Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
